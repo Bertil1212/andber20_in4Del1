@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearProbingHashSet",
+            "request": "launch",
+            "mainClass": "LinearProbingHashSet",
+            "projectName": "andber20_in4Del1_d2c2e8c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxPQ",
+            "request": "launch",
+            "mainClass": "MaxPQ",
+            "projectName": "andber20_in4Del1_d2c2e8c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdDraw",
+            "request": "launch",
+            "mainClass": "StdDraw",
+            "projectName": "andber20_in4Del1_d2c2e8c7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uppgift2",
+            "request": "launch",
+            "mainClass": "Uppgift2",
+            "projectName": "andber20_in4Del1_d2c2e8c7"
+        }
+    ]
+}
